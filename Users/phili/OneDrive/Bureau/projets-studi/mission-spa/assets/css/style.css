@@ -438,6 +438,451 @@ Flux
     height: 70px;
 }
     
+/* 450px = mobile */
+@media screen and (max-width:450px) {
+
+    .header__list-link {
+        display: none;
+    }
+
+    .banniere {
+        display: none;
+    }
+
+    .breadcrumb__list {
+        display: none;
+    }
+
+    .hero {
+        position: relative;
+    }
+    
+    .hero__container {
+        position: absolute;
+        right: 12%;
+    }
+        
+    .hero__title-1 {
+        bottom: 10px;
+        font-size: 40px;
+        text-align: center;
+        padding-top: 30px;
+    }
+        
+    .hero__title-2 {
+        font-size: 22px;
+    }
+        
+    .hero__description {
+        position: absolute;
+        top: 80%;
+        margin: 0%;
+        margin-left: 10px;
+        font-size: 18px;
+        line-height: 1.2;
+    }
+    
+    .description {
+        position: relative;
+        padding-top: 50px;
+        height: 950px;
+    }
+    
+    .offer {
+        position: relative;
+        padding-top: 50px;
+    }
+
+    .offer__container {
+        position: absolute;
+        bottom: 25%;
+        column-gap: 20px;
+    }
+
+    .offer__container-2 {
+        position: relative;
+        padding-top: 10px;
+        top: 15%;
+    }
+    
+    .offer__container-3 {
+        margin-right: auto;
+        padding-top: 100px;
+    }
+        
+        
+    .button__b-3 {
+        padding: 27px;
+    }
+    .offer__content {
+        margin-left: 200px;
+    }
+
+    .footer__menu {
+        position: relative;
+    }
+        
+        
+    .footer__container {
+        position: absolute;
+        bottom: -1%;
+    }
+
+    .footer__list {
+        position: relative;
+        margin: -20%;
+        line-height: 1.7;
+    }
+    
+    .footer__menu-img {
+        margin: 5%;
+    }
+}        
+
+/* 800px = tablette portrait */
+
+@media screen and (max-width:800px) {
+    .header {
+        position: relative;
+        height: 100px;
+    }
+    
+    .header__logo {
+        width: 59px;
+        height: 66px;
+        margin-left: 70px;
+    }
+    
+    .header__menu {
+        margin-left: 15px;
+    }
+        
+    .header__list-link {
+        display: none;
+    }
+    
+    .banniere {
+        display: none;
+    }
+            
+    .breadcrumb {
+        position: relative;
+    }
+            
+    .breadcrumb__container {
+        position: absolute;
+    }
+            
+    .breadcrumb__list {
+        position: absolute;
+        height: 80px;
+        right: -738px;
+        column-gap: 50px;
+    }
+        
+    .breadcrumb__link {
+        margin-right: 30px;
+    }
+        
+    .hero__title-1 {
+        font-size: 40px;
+        margin-left: 35px;
+        text-align: center;
+        padding-bottom: 10px;
+        line-height: 3;
+    }
+            
+    .hero__container {
+        position: relative;
+        display: block;
+        flex-direction: column;
+    }
+            
+    .hero__title-2 {
+        position: absolute;
+        top: 75%;
+        left: -120px;
+    }
+    
+    .hero__description {
+        display: none;
+    }
+        
+    .hero__image {
+        width: 694px;
+        height: 440px;
+        padding-right: 25px;
+        padding-bottom: 60px;
+        bottom: 1%;
+        top: 2%;
+    }
+            
+    .description {
+        position: relative;
+    }
+            
+    .description__title1 {
+        margin-left: -450px;
+        bottom: 1%;
+    }
+    
+    .description__container {
+        position: absolute;
+        margin-left: -40px;
+    }
+
+    .description__content-p3 {
+        padding-bottom: 40px;
+    }
+
+    .newsletter__title {
+        display: none;
+    }
+
+    .footer__menu {
+        height: 290px;
+    }
+}
+    
+        
+        
+    
+            
+            
+            
+        
+        
+        
+    
+    
+    
+    
+        
+        
+        
+    
+            
+        
+        
+        
+        
+        
+            
+            
+
+    
+    
+        
+    
+        
+
+
+
+
+    
+
+        
+        
+        
+        
+
+        
+        
+        
+        
+
+        
+
+    
+
+        
+        
+        
+
+        
+
+        
+        
+
+    
+    
+
+
+        
+        
+    
+    
+        
+        
+        
+
+    
+    
+        
+    
+
+    
+    
+        
+
+
+        
+        
+
+        
+        
+    
+        
+        
+        
+    
+        
+        
+        
+
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+    
+
+    
+
+    
+
+
+        
+
+
+        
+
+        
+
+
+    
+        
+    
+
+    
+    
+
+        
+        
+    
+    
+
+
+
+
+    
+
+        
+
+        
+
+        
+        
+
+
+    
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+        
+
+        
+
+
+        
+    
+        
+
+    
+    
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+
+
+        
+        
+
+
+    
+    
+    
+        
+        
+        
+
+        
+        
+
+
+        
+        
+        
+        
+        
+
+
+
+        
+        
+
+    
+
+
+    
+
+
+
+
+        
+    
+    
+
+
+
+    
+    
+    
+
+
+
+
+    
+    
+    
+
+
+
+    
     
     
 
